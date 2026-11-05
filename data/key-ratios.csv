@@ -1,0 +1,55 @@
+metric,company,year,value,unit,source_sheet,source_cell
+Net profit margin,Beximco,2019,0.13325381449044105,percent,Appendix 3(Calculated Ratio's),F10
+Net profit margin,Beximco,2020,0.13839178295790563,percent,Appendix 3(Calculated Ratio's),G10
+Net profit margin,Beximco,2021,0.17514831383081714,percent,Appendix 3(Calculated Ratio's),H10
+Net profit margin,Renata,2019,0.1646479294721303,percent,Appendix 3(Calculated Ratio's),F11
+Net profit margin,Renata,2020,0.16259954968311988,percent,Appendix 3(Calculated Ratio's),G11
+Net profit margin,Renata,2021,0.16888353081537766,percent,Appendix 3(Calculated Ratio's),H11
+ROCE,Beximco,2019,0.1389200784019436,percent,Appendix 3(Calculated Ratio's),F12
+ROCE,Beximco,2020,0.14472088945126504,percent,Appendix 3(Calculated Ratio's),G12
+ROCE,Beximco,2021,0.1550411334512666,percent,Appendix 3(Calculated Ratio's),H12
+ROCE,Renata,2019,0.2653198138439457,percent,Appendix 3(Calculated Ratio's),F13
+ROCE,Renata,2020,0.25243224491441574,percent,Appendix 3(Calculated Ratio's),G13
+ROCE,Renata,2021,0.25342426177334654,percent,Appendix 3(Calculated Ratio's),H13
+Asset turnover,Beximco,2019,0.4636198434403068,times,Appendix 3(Calculated Ratio's),F18
+Asset turnover,Beximco,2020,0.5110253502703943,times,Appendix 3(Calculated Ratio's),G18
+Asset turnover,Beximco,2021,0.5645126217368305,times,Appendix 3(Calculated Ratio's),H18
+Asset turnover,Renata,2019,0.9243600115240836,times,Appendix 3(Calculated Ratio's),F19
+Asset turnover,Renata,2020,0.8396855137379401,times,Appendix 3(Calculated Ratio's),G19
+Asset turnover,Renata,2021,0.861888221188409,times,Appendix 3(Calculated Ratio's),H19
+Current ratio,Beximco,2019,1.0406665788265017,times,Appendix 3(Calculated Ratio's),F24
+Current ratio,Beximco,2020,1.1488923336534698,times,Appendix 3(Calculated Ratio's),G24
+Current ratio,Beximco,2021,1.4728684322679004,times,Appendix 3(Calculated Ratio's),H24
+Current ratio,Renata,2019,2.5535361319930994,times,Appendix 3(Calculated Ratio's),F25
+Current ratio,Renata,2020,2.45706449110042,times,Appendix 3(Calculated Ratio's),G25
+Current ratio,Renata,2021,2.235114964362495,times,Appendix 3(Calculated Ratio's),H25
+Operating cash flow ratio,Beximco,2019,0.23222625782586467,times,Appendix 3(Calculated Ratio's),F26
+Operating cash flow ratio,Beximco,2020,0.48798241754117666,times,Appendix 3(Calculated Ratio's),G26
+Operating cash flow ratio,Beximco,2021,0.6442215113886942,times,Appendix 3(Calculated Ratio's),H26
+Operating cash flow ratio,Renata,2019,0.8933907055988166,times,Appendix 3(Calculated Ratio's),F27
+Operating cash flow ratio,Renata,2020,0.7586024490893031,times,Appendix 3(Calculated Ratio's),G27
+Operating cash flow ratio,Renata,2021,0.5616317721543187,times,Appendix 3(Calculated Ratio's),H27
+Total liabilities / total equity,Beximco,2019,0.6479225388999722,times,Appendix 3(Calculated Ratio's),F33
+Total liabilities / total equity,Beximco,2020,0.5281292457610582,times,Appendix 3(Calculated Ratio's),G33
+Total liabilities / total equity,Beximco,2021,0.3982677112603987,times,Appendix 3(Calculated Ratio's),H33
+Total liabilities / total equity,Renata,2019,0.32693666539897165,times,Appendix 3(Calculated Ratio's),F34
+Total liabilities / total equity,Renata,2020,0.35030462951403396,times,Appendix 3(Calculated Ratio's),G34
+Total liabilities / total equity,Renata,2021,0.3524441736693392,times,Appendix 3(Calculated Ratio's),H34
+Total liabilities / total assets,Beximco,2019,0.3931753608591797,percent,Appendix 3(Calculated Ratio's),F35
+Total liabilities / total assets,Beximco,2020,0.3456050901624048,percent,Appendix 3(Calculated Ratio's),G35
+Total liabilities / total assets,Beximco,2021,0.2848293699790866,percent,Appendix 3(Calculated Ratio's),H35
+Total liabilities / total assets,Renata,2019,0.24638452906165736,percent,Appendix 3(Calculated Ratio's),F36
+Total liabilities / total assets,Renata,2020,0.2594263708035322,percent,Appendix 3(Calculated Ratio's),G36
+Total liabilities / total assets,Renata,2021,0.2605979459493082,percent,Appendix 3(Calculated Ratio's),H36
+Price / earnings,Beximco,2019,12.280058937865926,times,Appendix 3(Calculated Ratio's),F40
+Price / earnings,Beximco,2020,8.783414828971154,times,Appendix 3(Calculated Ratio's),G40
+Price / earnings,Beximco,2021,15.42519460747487,times,Appendix 3(Calculated Ratio's),H40
+Price / earnings,Renata,2019,31.096153170816727,times,Appendix 3(Calculated Ratio's),F41
+Price / earnings,Renata,2020,24.924764535252493,times,Appendix 3(Calculated Ratio's),G41
+Price / earnings,Renata,2021,25.407672807739505,times,Appendix 3(Calculated Ratio's),H41
+Restated EPS,Beximco,2019,6.799641632217682,BDT per share,Appendix 3(Calculated Ratio's),F86
+Restated EPS,Beximco,2020,7.878484774708717,BDT per share,Appendix 3(Calculated Ratio's),G86
+Restated EPS,Beximco,2021,11.494182375766105,BDT per share,Appendix 3(Calculated Ratio's),H86
+Restated EPS,Renata,2019,38.538528975496575,BDT per share,Appendix 3(Calculated Ratio's),F87
+Restated EPS,Renata,2020,41.17190349174965,BDT per share,Appendix 3(Calculated Ratio's),G87
+Restated EPS,Renata,2021,51.9410026249237,BDT per share,Appendix 3(Calculated Ratio's),H87
